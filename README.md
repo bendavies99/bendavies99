@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+## Ben Davies
+
+Graduate 🎓 Computer Scientist with proficiency in various languages and technologies including Java (Gradle and Maven), Javascript and Typescript, Vue.js, Nest.js, Express.js, MySQL, and MongoDB.  I have been making GUI Programs in Java since the age of 14 and am currently a volunteer Software Engineer for the Nightline Association. I am always willing to expand my skillset and take up new projects.
+
+🔭 I’m currently working on [Babblebot-Server](https://github.com/bendavies99/Babblebot-Server)
+
+🌱 I’m currently learning Java Reactor
+
 <!--
 **bendavies99/bendavies99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
