@@ -6,7 +6,7 @@ Graduate 🎓 Computer Scientist with proficiency in various languages and techn
 
 🔭 I’m currently working on [Babblebot-Server](https://github.com/bendavies99/Babblebot-Server)
 
-🌱 I’m currently learning Java Reactor
+🌱 I’m currently learning [Project Reactor](https://projectreactor.io/)
 
 <!--
 **bendavies99/bendavies99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
