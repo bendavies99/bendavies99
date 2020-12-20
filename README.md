@@ -4,7 +4,7 @@
 
 # Hi there 👋
 
-### Ben Davies
+### 🏷️ About Me
 
 Application Support Developer at Cimteq Ltd with proficiency in various languages and technologies including Java (Gradle and Maven), Javascript and Typescript, Vue.js, Nest.js, Express.js, MySQL, and MongoDB. I am always willing to expand my skillset and take up new projects.
 
@@ -16,9 +16,11 @@ Application Support Developer at Cimteq Ltd with proficiency in various language
 
 🤔 I’m looking for help with [Babblebot-Server](https://github.com/bendavies99/Babblebot-Server)
 
+### :bar_chart: Stats
+
 ![Ben's Github stats](https://github-readme-stats.vercel.app/api?username=bendavies99&show_icons=true&theme=radical)
 
-⭐️ From [Ben](https://github.com/bendavies99) with :sparkling_heart: 
+⭐️ From [@bendavies99](https://github.com/bendavies99) with :sparkling_heart: 
 
 <!--
 **bendavies99/bendavies99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
