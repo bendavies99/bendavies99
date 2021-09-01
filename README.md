@@ -6,15 +6,17 @@
 
 ### 🏷️ About Me
 
+😄 Pronouns: He/Him
+
 Application Support Developer at Cimteq Ltd with proficiency in various languages and technologies including Java (Gradle and Maven), Javascript and Typescript, Vue.js, Nest.js, Express.js, MySQL, The ability to stack multiple classes inside a HTML tag (tailwindcss), and MongoDB. I am always willing to expand my skillset and take up new projects.
 
-🔭 I’m currently working on [Babblebot-Server](https://github.com/bendavies99/Babblebot-Server)
+🔭 I’m currently working on [Babblebot-Server](https://github.com/bendavies99/Babblebot-Server) (Currently on-hold due to work-life balance)
 
-🌱 I’m currently learning [Electron](https://www.electronjs.org/)
+🌱 I’m currently learning [Electron](https://www.electronjs.org/) and [Svelte](https://svelte.dev/)
 
 💬 Ask me about Java, Typescript, Javascript, Web-Dev
 
-🤔 I’m looking for help with [Babblebot-Server](https://github.com/bendavies99/Babblebot-Server) any contribututions are welcome
+🤔 I’m looking for help with [Babblebot-Server](https://github.com/bendavies99/Babblebot-Server) any contributions are welcome
 
 ### :bar_chart: Stats
 
