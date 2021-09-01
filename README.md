@@ -10,11 +10,11 @@ Application Support Developer at Cimteq Ltd with proficiency in various language
 
 🔭 I’m currently working on [Babblebot-Server](https://github.com/bendavies99/Babblebot-Server)
 
-🌱 I’m currently learning [Project Reactor](https://projectreactor.io/) and reactive  programming in general
+🌱 I’m currently learning [Electron](https://www.electronjs.org/)
 
-💬 Ask me about Java, Typescript, Javascript
+💬 Ask me about Java, Typescript, Javascript, Web-Dev
 
-🤔 I’m looking for help with [Babblebot-Server](https://github.com/bendavies99/Babblebot-Server)
+🤔 I’m looking for help with [Babblebot-Server](https://github.com/bendavies99/Babblebot-Server) any contribututions are welcome
 
 ### :bar_chart: Stats
 
