@@ -18,6 +18,8 @@ Application Support Developer at Cimteq Ltd with proficiency in various language
 
 🤔 I’m looking for help with [Babblebot-Server](https://github.com/bendavies99/Babblebot-Server) any contributions are welcome
 
+⚡ Fun fact: When you format your hard drive, the files are not deleted.
+
 ### :bar_chart: Stats
 
 ![Ben's Github stats](https://github-readme-stats.vercel.app/api?username=bendavies99&show_icons=true&theme=radical)
