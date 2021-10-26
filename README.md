@@ -12,7 +12,7 @@ Software Developer at Cimteq Ltd with proficiency in various languages and techn
 
 🔭 I’m currently working on [Babblebot-Server](https://github.com/bendavies99/Babblebot-Server) (Currently on-hold due to work-life balance)
 
-🌱 I’m currently learning [Electron](https://www.electronjs.org/) and [Svelte](https://svelte.dev/)
+🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
 
 💬 Ask me about Java, Typescript, Javascript, Web-Dev
 
