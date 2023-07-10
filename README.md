@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://socialify.git.ci/bendavies99/bendavies99/image?description=1&descriptionEditable=Software%20Developer%20at%20Cimteq!&font=KoHo&pattern=Circuit%20Board&theme=Dark" alt="bendavies99" width="640" height="320" />
+<img src="https://socialify.git.ci/bendavies99/bendavies99/image?description=1&descriptionEditable=Software%20Developer!&font=KoHo&pattern=Circuit%20Board&theme=Dark" alt="bendavies99" width="640" height="320" />
 </p>
 
 # Hi there 👋
@@ -8,7 +8,7 @@
 
 😄 Pronouns: He/Him
 
-Software Developer at Cimteq Ltd with proficiency in various languages and technologies including Java (Gradle and Maven), Javascript and Typescript, Vue.js, Nest.js, Express.js, MySQL, The ability to stack multiple classes inside a HTML tag (tailwindcss), and MongoDB. I am always willing to expand my skillset and take up new projects.
+Software Developer with proficiency in various languages and technologies including Java (Gradle and Maven), Javascript and Typescript, Vue.js, Nest.js, Express.js, MySQL, The ability to stack multiple classes inside a HTML tag (tailwindcss), and MongoDB. I am always willing to expand my skillset and take up new projects.
 
 🔭 I’m currently working on [Babblebot Server](https://github.com/babblebot-server/server) ([Webstite](https://babblebot.net))
 
