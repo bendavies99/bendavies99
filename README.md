@@ -10,13 +10,13 @@
 
 Software Developer at Cimteq Ltd with proficiency in various languages and technologies including Java (Gradle and Maven), Javascript and Typescript, Vue.js, Nest.js, Express.js, MySQL, The ability to stack multiple classes inside a HTML tag (tailwindcss), and MongoDB. I am always willing to expand my skillset and take up new projects.
 
-🔭 I’m currently working on [Babblebot-Server](https://github.com/bendavies99/Babblebot-Server) (Currently on-hold due to work-life balance)
+🔭 I’m currently working on [Babblebot Server](https://github.com/babblebot-server/server) ([Webstite](https://babblebot.net))
 
 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
 
 💬 Ask me about Java, Typescript, Javascript, Web-Dev
 
-🤔 I’m looking for help with [Babblebot-Server](https://github.com/bendavies99/Babblebot-Server) any contributions are welcome
+🤔 I’m looking for help with [Babblebot Server](https://github.com/babblebot-server/server) any contributions are welcome
 
 ⚡ Fun fact: When you format your hard drive, the files are not deleted.
 
